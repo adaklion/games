@@ -1,0 +1,14 @@
+C:\uchitsa\5_SEMESTR_game\rab\классное_3.3\bin\Debug\net8.0\классное_3.3.exe
+C:\uchitsa\5_SEMESTR_game\rab\классное_3.3\bin\Debug\net8.0\классное_3.3.deps.json
+C:\uchitsa\5_SEMESTR_game\rab\классное_3.3\bin\Debug\net8.0\классное_3.3.runtimeconfig.json
+C:\uchitsa\5_SEMESTR_game\rab\классное_3.3\bin\Debug\net8.0\классное_3.3.dll
+C:\uchitsa\5_SEMESTR_game\rab\классное_3.3\bin\Debug\net8.0\классное_3.3.pdb
+C:\uchitsa\5_SEMESTR_game\rab\классное_3.3\obj\Debug\net8.0\классное_3.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\uchitsa\5_SEMESTR_game\rab\классное_3.3\obj\Debug\net8.0\классное_3.3.AssemblyInfoInputs.cache
+C:\uchitsa\5_SEMESTR_game\rab\классное_3.3\obj\Debug\net8.0\классное_3.3.AssemblyInfo.cs
+C:\uchitsa\5_SEMESTR_game\rab\классное_3.3\obj\Debug\net8.0\классное_3.3.csproj.CoreCompileInputs.cache
+C:\uchitsa\5_SEMESTR_game\rab\классное_3.3\obj\Debug\net8.0\классное_3.3.dll
+C:\uchitsa\5_SEMESTR_game\rab\классное_3.3\obj\Debug\net8.0\refint\классное_3.3.dll
+C:\uchitsa\5_SEMESTR_game\rab\классное_3.3\obj\Debug\net8.0\классное_3.3.pdb
+C:\uchitsa\5_SEMESTR_game\rab\классное_3.3\obj\Debug\net8.0\классное_3.3.genruntimeconfig.cache
+C:\uchitsa\5_SEMESTR_game\rab\классное_3.3\obj\Debug\net8.0\ref\классное_3.3.dll

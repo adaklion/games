@@ -1,0 +1,14 @@
+C:\uchitsa\5_SEMESTR_game\rab\домашнее_2.3\bin\Debug\net8.0\домашнее_2.3.exe
+C:\uchitsa\5_SEMESTR_game\rab\домашнее_2.3\bin\Debug\net8.0\домашнее_2.3.deps.json
+C:\uchitsa\5_SEMESTR_game\rab\домашнее_2.3\bin\Debug\net8.0\домашнее_2.3.runtimeconfig.json
+C:\uchitsa\5_SEMESTR_game\rab\домашнее_2.3\bin\Debug\net8.0\домашнее_2.3.dll
+C:\uchitsa\5_SEMESTR_game\rab\домашнее_2.3\bin\Debug\net8.0\домашнее_2.3.pdb
+C:\uchitsa\5_SEMESTR_game\rab\домашнее_2.3\obj\Debug\net8.0\домашнее_2.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\uchitsa\5_SEMESTR_game\rab\домашнее_2.3\obj\Debug\net8.0\домашнее_2.3.AssemblyInfoInputs.cache
+C:\uchitsa\5_SEMESTR_game\rab\домашнее_2.3\obj\Debug\net8.0\домашнее_2.3.AssemblyInfo.cs
+C:\uchitsa\5_SEMESTR_game\rab\домашнее_2.3\obj\Debug\net8.0\домашнее_2.3.csproj.CoreCompileInputs.cache
+C:\uchitsa\5_SEMESTR_game\rab\домашнее_2.3\obj\Debug\net8.0\домашнее_2.3.dll
+C:\uchitsa\5_SEMESTR_game\rab\домашнее_2.3\obj\Debug\net8.0\refint\домашнее_2.3.dll
+C:\uchitsa\5_SEMESTR_game\rab\домашнее_2.3\obj\Debug\net8.0\домашнее_2.3.pdb
+C:\uchitsa\5_SEMESTR_game\rab\домашнее_2.3\obj\Debug\net8.0\домашнее_2.3.genruntimeconfig.cache
+C:\uchitsa\5_SEMESTR_game\rab\домашнее_2.3\obj\Debug\net8.0\ref\домашнее_2.3.dll
