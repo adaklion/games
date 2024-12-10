@@ -1,0 +1,14 @@
+C:\uchitsa\5_SEMESTR_game\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\uchitsa\5_SEMESTR_game\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.AssemblyInfoInputs.cache
+C:\uchitsa\5_SEMESTR_game\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.AssemblyInfo.cs
+C:\uchitsa\5_SEMESTR_game\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\uchitsa\5_SEMESTR_game\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.exe
+C:\uchitsa\5_SEMESTR_game\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.deps.json
+C:\uchitsa\5_SEMESTR_game\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.runtimeconfig.json
+C:\uchitsa\5_SEMESTR_game\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.dll
+C:\uchitsa\5_SEMESTR_game\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.pdb
+C:\uchitsa\5_SEMESTR_game\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.dll
+C:\uchitsa\5_SEMESTR_game\ConsoleApp2\obj\Debug\net8.0\refint\ConsoleApp2.dll
+C:\uchitsa\5_SEMESTR_game\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.pdb
+C:\uchitsa\5_SEMESTR_game\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.genruntimeconfig.cache
+C:\uchitsa\5_SEMESTR_game\ConsoleApp2\obj\Debug\net8.0\ref\ConsoleApp2.dll
