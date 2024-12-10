@@ -1,0 +1,14 @@
+C:\uchitsa\5_SEMESTR_game\MAZE\bin\Debug\net8.0\MAZE.exe
+C:\uchitsa\5_SEMESTR_game\MAZE\bin\Debug\net8.0\MAZE.deps.json
+C:\uchitsa\5_SEMESTR_game\MAZE\bin\Debug\net8.0\MAZE.runtimeconfig.json
+C:\uchitsa\5_SEMESTR_game\MAZE\bin\Debug\net8.0\MAZE.dll
+C:\uchitsa\5_SEMESTR_game\MAZE\bin\Debug\net8.0\MAZE.pdb
+C:\uchitsa\5_SEMESTR_game\MAZE\obj\Debug\net8.0\MAZE.GeneratedMSBuildEditorConfig.editorconfig
+C:\uchitsa\5_SEMESTR_game\MAZE\obj\Debug\net8.0\MAZE.AssemblyInfoInputs.cache
+C:\uchitsa\5_SEMESTR_game\MAZE\obj\Debug\net8.0\MAZE.AssemblyInfo.cs
+C:\uchitsa\5_SEMESTR_game\MAZE\obj\Debug\net8.0\MAZE.csproj.CoreCompileInputs.cache
+C:\uchitsa\5_SEMESTR_game\MAZE\obj\Debug\net8.0\MAZE.dll
+C:\uchitsa\5_SEMESTR_game\MAZE\obj\Debug\net8.0\refint\MAZE.dll
+C:\uchitsa\5_SEMESTR_game\MAZE\obj\Debug\net8.0\MAZE.pdb
+C:\uchitsa\5_SEMESTR_game\MAZE\obj\Debug\net8.0\MAZE.genruntimeconfig.cache
+C:\uchitsa\5_SEMESTR_game\MAZE\obj\Debug\net8.0\ref\MAZE.dll
